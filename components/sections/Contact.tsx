@@ -72,7 +72,7 @@ export const Contact = () => {
         <div
           className="flex justify-center items-center gap-1 text-gray-200 hover:text-orange-700 sm:hover:text-black ease-in duration-300 cursor-pointer"
           onClick={() =>
-            iconClickHandler("https://github.com/CharlesCarr/charlie-portfolio")
+            iconClickHandler("https://github.com/CharlesCarr/new-portfolio")
           }
         >
           <p>View the Code</p>
